@@ -23,7 +23,7 @@ Este proyecto de github contiene:
 
 4. **"ITEM":** Quizas el más difícil, ya que aunque habían valores faltantes, ya era conocido que existen 8 categorías ("Category") y por cada valor de este, 25 sub valores dentro de "ITEM" asi que se hizo una relación en una hoja nueva con una fórmula entre "category" y "price per unit" para inferir el valor que corresponde a "ITEM". Luego, se rellenó la parte restante de "ITEM" en la tabla con otra formula. 
 
-(==Cabe destacar== que aunque entendí la lógica de como inferir el "ITEM" que me faltaba usando el contexto, tuve que recurrir a la IA para que me ayudara a comprender y formular la solución para automatizarlo)
+(Cabe destacar que aunque entendí la lógica de como inferir el "ITEM" que me faltaba usando el contexto, tuve que recurrir a la IA para que me ayudara a comprender y formular la solución para automatizarlo)
 
 ---
 Una vez todas los datos estaban íntegros, pasé a hacer las tablas dinámicas preliminares para observar el comportamientos de los datos visualmente.
